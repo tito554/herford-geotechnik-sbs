@@ -1,0 +1,50 @@
+# Geotechnik — Herford
+
+> Geotechnical engineering services in Herford, Deutschland.
+
+## Services
+- [Anker](https://herford.geotechnik.sbs/anker/)
+- [Atterberg Grenzen](https://herford.geotechnik.sbs/atterberg-grenzen/)
+- [Aushub](https://herford.geotechnik.sbs/aushub/)
+- [Aushub Monitoring](https://herford.geotechnik.sbs/aushub-monitoring/)
+- [Bodenplatten](https://herford.geotechnik.sbs/bodenplatten/)
+- [Bodenverbesserung](https://herford.geotechnik.sbs/bodenverbesserung/)
+- [Boschungsstabilitat](https://herford.geotechnik.sbs/boschungsstabilitat/)
+- [Cbr Strasse](https://herford.geotechnik.sbs/cbr-strasse/)
+- [Cpt Versuch](https://herford.geotechnik.sbs/cpt-versuch/)
+- [Erdbebenisolierung](https://herford.geotechnik.sbs/erdbebenisolierung/)
+- [Flexibler Belag](https://herford.geotechnik.sbs/flexibler-belag/)
+- [Fundamente](https://herford.geotechnik.sbs/fundamente/)
+- [Geophysik](https://herford.geotechnik.sbs/geophysik/)
+- [Grundungen](https://herford.geotechnik.sbs/grundungen/)
+- [Hange](https://herford.geotechnik.sbs/hange/)
+- [In Situ Durchlassigkeit](https://herford.geotechnik.sbs/in-situ-durchlassigkeit/)
+- [Injektionen](https://herford.geotechnik.sbs/injektionen/)
+- [Korngrossenanalyse](https://herford.geotechnik.sbs/korngrossenanalyse/)
+- [Labor](https://herford.geotechnik.sbs/labor/)
+- [Labor In Situ](https://herford.geotechnik.sbs/labor-in-situ/)
+- [Masw](https://herford.geotechnik.sbs/masw/)
+- [Pfahle](https://herford.geotechnik.sbs/pfahle/)
+- [Plattendruckversuch](https://herford.geotechnik.sbs/plattendruckversuch/)
+- [Sandkegel Dichte](https://herford.geotechnik.sbs/sandkegel-dichte/)
+- [Schottersaulen](https://herford.geotechnik.sbs/schottersaulen/)
+- [Schurfgruben](https://herford.geotechnik.sbs/schurfgruben/)
+- [Seismik](https://herford.geotechnik.sbs/seismik/)
+- [Seismische Mikrozonierung](https://herford.geotechnik.sbs/seismische-mikrozonierung/)
+- [Spt Bohrung](https://herford.geotechnik.sbs/spt-bohrung/)
+- [Starrer Belag](https://herford.geotechnik.sbs/starrer-belag/)
+- [Strassenbau](https://herford.geotechnik.sbs/strassenbau/)
+- [Stutzmauern](https://herford.geotechnik.sbs/stutzmauern/)
+- [Tiefe Aushube](https://herford.geotechnik.sbs/tiefe-aushube/)
+- [Triaxialversuch](https://herford.geotechnik.sbs/triaxialversuch/)
+- [Untersuchung](https://herford.geotechnik.sbs/untersuchung/)
+- [Verflussigung](https://herford.geotechnik.sbs/verflussigung/)
+- [Weichbodentunnel](https://herford.geotechnik.sbs/weichbodentunnel/)
+- [Widerstand](https://herford.geotechnik.sbs/widerstand/)
+
+## Contact
+- Website: https://herford.geotechnik.sbs/
+
+## About
+This site provides geotechnical engineering services in Herford, Deutschland.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
